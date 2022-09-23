@@ -38,7 +38,7 @@ LAMP
 -Clases,Objetos,atributos y atributos en Java
 
 
-<h2>•Descripcion del proyecto</h2>
+<h2>•Descripción del proyecto</h2>
 Propuesta de desarrollo para la empresa INNOVA COLOMBIA, busca la implementación de una aplicación que esté directamente relacionada con la serie Stranger Things que pertenece a la plataforma y servicio de streaming Netflix. Principalmente para el desarrollo, análisis e implementación debe cumplir con los requerimientos funcionales y no funcionales pactados, además deberá evidenciarse específicamente información sobre (Personajes, premios, hipnosis, banda sonora).
 
 <h2>•Estado del proyecto</h2>
@@ -59,18 +59,18 @@ Propuesta de desarrollo para la empresa INNOVA COLOMBIA, busca la implementació
 <h2>•Personas contribuyentes</h2>
 -Scrum mastar, Product owner, Desarrolador Frontend, Desarrollador Banckend, QA tester
 
-<h2>•Personas-Desarroladores del proyecto</h2>
+<h2>•Personas-Desarrolladores del Proyecto</h2>
 Bryan Alejandro Granados Toro
 
 ![image](https://user-images.githubusercontent.com/114112009/191886118-5fa795a3-0868-4ca6-a9f0-f9c34dd8af35.png)
 
-<h2> •Licencia </h2>
+<h2> •Licencia</h2>
 Crative Commons 4.0
 
 ![CC](https://user-images.githubusercontent.com/114112009/192039539-70a4589d-9076-4704-9252-dd5f7236c3a5.png)
 
 
-<h2>•Conclusiones</h2>
+<h2>•Conclusión</h2>
 
 
 1. las metodologias agiles son importantisimas y han tomado una gran papel para el desarrollo e implementacion de nuevos proyectos de software, gracias a estas metodologias agiles el mundo del desarrolo ha dado un paso mas adelante, ha podido dejar atras todos aquellos incomvenientes que dia a dia y proyecto tras proyecto se venian presentando.
