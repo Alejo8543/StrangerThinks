@@ -1,4 +1,4 @@
-# StrangerThinks
+# StrangerThings
 <h1>Proyecto InnovAle </h1>
  
  ![st2](https://user-images.githubusercontent.com/114112009/192039796-0f9e33e2-6e2e-4017-afd7-3d86fb91b62f.jpg)
